@@ -1,8 +1,8 @@
 Docker Custodian
 ================
 
-.. image:: https://travis-ci.org/Yelp/docker-custodian.svg
-    :target: https://travis-ci.org/Yelp/docker-custodian
+.. image:: https://travis-ci.org/dnephin/docker-custodian.svg
+    :target: https://travis-ci.org/dnephin/docker-custodian
 
 Keep docker hosts tidy.
 
